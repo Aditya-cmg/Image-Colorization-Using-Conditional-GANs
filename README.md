@@ -2,7 +2,9 @@
 
 
 Colab Notebook - https://colab.research.google.com/drive/1xog3aiiXB1wXAGJ14rqhATp0fedGWCdl?usp=sharing
+
 ResNet based Unet - https://drive.google.com/file/d/1-Clo-DlyCzR0jHlC-MgKRqKXr4bwmHsQ/view?usp=sharing
+
 Final Trained Model - https://drive.google.com/file/d/1eMAmWVrhoBudzJ0y6MXWOnA6iwLhotMd/view?usp=sharing
 
 
@@ -35,7 +37,9 @@ The Dataset is split into 2 parts - 8000 training images and 2000 validation dat
 ## 5- Library Used
 
 Pytorch
+
 Tensorboard
+
 Fastai
 
 
