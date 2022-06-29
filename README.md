@@ -1,6 +1,7 @@
 # Image-Colorization-Using-Conditional-GANs
 
-Problem Statement
+
+## Problem Statement
 The task of colorizing black and white photographs necessitates a lot of human input and hardcoding. The goal is to create an end-to-end deep learning pipeline that can automate the task of image colorization by taking a black and white image as input and producing a colorized image as output.
 Motivation
 Colorization is the process of adding color information to monochrome photographs or videos. The colorization of grayscale images is an ill-posed problem, with multiple correct solutions. Online tools can be used for image colorization but the problem with these tools is a lack of inductive bias which results in inappropriate colors and doesn’t even work for a few image domains. Deep learning algorithms that better understand image data like the colors that are generally observed for human faces should ideally perform better in this task.
